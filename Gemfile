@@ -1,0 +1,12 @@
+source "https://rubygems.org"
+ruby "2.6.3"
+gem 'down'
+gem 'dotenv'
+gem "resque"
+gem 'activerecord'
+gem 'sinatra'
+gem "sinatra-activerecord"
+gem 'pg'
+gem "activesupport"
+gem "rake"
+gem "redis"
