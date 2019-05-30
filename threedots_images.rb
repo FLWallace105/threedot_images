@@ -2,7 +2,7 @@
 require 'dotenv'
 Dotenv.load
 require 'down'
-require 'CSV'
+require 'csv'
 require 'fileutils'
 require 'resque'
 require 'sinatra'
